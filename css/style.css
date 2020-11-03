@@ -450,6 +450,8 @@ form {
 .footer {
   background-color: #EADDD5;
   padding: 100px 0 10px;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer-container {
